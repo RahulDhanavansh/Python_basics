@@ -1,0 +1,12 @@
+#Relational Opertors
+#they return a boolean value
+
+a = 50;
+b = 20;
+
+print(a==b);
+print(a!=b);
+print(a>=b);
+print(a>b);
+print(a<=b);
+print(a<b);
